@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="simplilearn_AddingNewProductDatabase:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>simplilearn_AddingNewProductDatabase</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="simplilearn_AddingNewProductDatabase-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="simplilearn_AddingNewProductDatabase:war exploded" />
+    </root>
+  </artifact>
+</component>
